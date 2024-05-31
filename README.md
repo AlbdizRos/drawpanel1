@@ -5,5 +5,6 @@ A presente aplicação desenha um retângulo, um círculo ovalado horizontal e u
 
 Pacotes Java usados: 
 
-java.awt
+java.awt 
+
 javax.swing 
